@@ -49,7 +49,7 @@
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Auch diesmal selbstverständlich wieder selsbt gemacht und hochexklusiv, nur für dich."
+                android:text="Auch diesmal selbstverständlich wieder selbstgemacht und hochexklusiv, nur für dich."
                 android:textSize="24sp" />
 
             <TextView
