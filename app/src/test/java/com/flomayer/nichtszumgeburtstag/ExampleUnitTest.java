@@ -1,4 +1,4 @@
-package com.flomayer.nichtszuweihnachten;
+package com.flomayer.nichtszumgeburtstag;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.flomayer.nichtszuweihnachten;
+package com.flomayer.nichtszumgeburtstag;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

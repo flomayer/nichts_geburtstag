@@ -1,4 +1,4 @@
-package com.flomayer.nichtszuweihnachten;
+package com.flomayer.nichtszumgeburtstag;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.flomayer.nichtszuweihnachten", appContext.getPackageName());
+        assertEquals("com.flomayer.nichtszumgeburtstag", appContext.getPackageName());
     }
 }

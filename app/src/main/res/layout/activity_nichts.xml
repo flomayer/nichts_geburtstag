@@ -42,70 +42,35 @@
                 android:id="@+id/textView"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text='du hast dir von mir "Nichts zu Weihnachten" gewünscht.'
+                android:text='nach dem grandiosen Erfolg von "Nichts zu Weihnachten" folgt hier der nächste Geniestreich der mobilen Applikationen: "Nichts zum Geburtstag"!'
                 android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Und wenn überhaupt, dann etwas selber gemachtes."
+                android:text="Auch diesmal selbstverständlich wieder selsbt gemacht und hochexklusiv, nur für dich."
                 android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/textView11"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Aber etwas, das nachher nicht im Weg rumsteht."
+                android:text="Als konsequente Weiterentwicklung beinhaltet diese App sogar noch weniger Text."
                 android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/textView3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text='Deshalb bekommst du von mir "Nichts zu Weihnachten", diese App:'
-                android:textSize="24sp" />
-
-            <TextView
-                android:id="@+id/textView4"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="- Sie kann nichts"
-                android:textSize="24sp" />
-
-            <TextView
-                android:id="@+id/textView5"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="- Sie ist selbst gemacht"
-                android:textSize="24sp" />
-
-            <TextView
-                android:id="@+id/textView6"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="- Sie steht nicht im Weg rum"
-                android:textSize="24sp" />
-
-            <TextView
-                android:id="@+id/textView7"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Nur essen kannst du sie leider nicht."
-                android:textSize="24sp" />
-
-            <TextView
-                android:id="@+id/textView8"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="Aber davon gibt es an Weihnachten sowieso genug."
+                android:text='Ich wünsche dir, dass dir auch in Zukunft nichts fehlt (sowohl bevor als auch nachdem du diese App wieder von deinem Handy entfernst), und ich hoffe, dass dich nichts bisher glücklicher gemacht hat.'
                 android:textSize="24sp" />
 
             <TextView
                 android:id="@+id/textView9"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Fröhliche Weihnachten,"
+                android:text="Alles Gute zum Geburtstag,"
                 android:textSize="24sp" />
 
             <TextView
